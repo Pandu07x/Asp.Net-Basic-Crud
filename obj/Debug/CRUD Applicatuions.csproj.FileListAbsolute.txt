@@ -1,0 +1,59 @@
+D:\Pandu\testing\CRUD Applicatuions\bin\CRUD Applicatuions.dll.config
+D:\Pandu\testing\CRUD Applicatuions\bin\CRUD Applicatuions.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\CRUD Applicatuions.pdb
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\csc.exe
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\csc.exe.config
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\csc.rsp
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\csi.exe
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\csi.exe.config
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\csi.rsp
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.AppContext.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Collections.Immutable.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Console.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Globalization.Calendars.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.IO.Compression.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.IO.FileSystem.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Net.Http.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Net.Sockets.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.ValueTuple.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Xml.XPath.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\vbc.exe
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\vbc.exe.config
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\vbc.rsp
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\VBCSCompiler.exe
+D:\Pandu\testing\CRUD Applicatuions\bin\roslyn\VBCSCompiler.exe.config
+D:\Pandu\testing\CRUD Applicatuions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pandu\testing\CRUD Applicatuions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pandu\testing\CRUD Applicatuions\obj\Debug\CRUD Applicatuions.csproj.AssemblyReference.cache
+D:\Pandu\testing\CRUD Applicatuions\obj\Debug\CRUD Applicatuions.csproj.CoreCompileInputs.cache
+D:\Pandu\testing\CRUD Applicatuions\obj\Debug\CRUD Applicatuions.csproj.CopyComplete
+D:\Pandu\testing\CRUD Applicatuions\obj\Debug\CRUD Applicatuions.dll
+D:\Pandu\testing\CRUD Applicatuions\obj\Debug\CRUD Applicatuions.pdb
